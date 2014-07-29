@@ -1,0 +1,58 @@
+
+	html, body {
+		overflow: hidden;
+	}
+
+	body {
+		background: radial-gradient(rgb(240, 240, 240), rgb(20, 181, 253));
+	}
+
+	.hint {
+		background: rgba(20, 181, 253, 0.6);
+		color: #ffffff;
+	}
+
+	#fv1 {
+		background-image: url('http://puu.sh/avU1S/bdd6efebe4.jpg');
+		background-size: cover;
+	}
+
+	#fv2 {
+		background-image: url('http://puu.sh/avUes/966a6d387f.jpg');
+		background-size: cover;
+		background-position-x: -190px;
+	}
+
+	#fv3 {
+		background-image: url('http://puu.sh/avUoh/f65ab8b5cc.jpg');
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#fv4 {
+		background-image: url('http://puu.sh/avUAe/a53b65432e.jpg');
+		background-size: cover;
+	}
+
+	#fv5 {
+		background-image: url('http://puu.sh/avUKW/a4e45a7df6.jpg');
+		background-size: cover;
+	}
+
+	#fv6 {
+		background-image: url('http://puu.sh/avUS1/90ece25a2c.jpg');
+		background-size: cover;
+	}
+
+	#fv7 {
+		background-image: url('http://puu.sh/avUYT/06092dae2c.jpg');
+		background-size: cover;
+	}
+
+	#fv8 {
+		background-image: url('http://puu.sh/avV0u/2e1884cfa9.jpg');
+		background-size: cover;
+	}
+
+
+	
